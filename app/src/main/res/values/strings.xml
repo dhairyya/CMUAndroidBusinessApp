@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MARVDC Comic Info App</string>
+
+    <string name="bio">Hi, we deal in comics business.
+        \n\nWe are located on 221B Baker Street, Sunnyvale View, California.
+        \n\nWe are opened from Mon to Sun 10:00 am to 7:00 pm.
+        \n\nYou can contact us on +1 440 243 5412 or visit us on marvdccomics.com
+        \n\nYou can also email us on info@marvdccomics.com.
+        \nWe have comic books dealing with characters such as wonder widow, captain flash, Hawk man, Aqua spider and Bat Thor.
+        \nThe famous movie series of Justice Avengers has been made on our comic books.
+        \n\nWe will be back soon with much more information about our upcoming plans.
+        \n\nStay tuned for comic con 2032 where we unveil Super Iron Man .\n\n</string>
+    <string name="skull_image">Skull Image</string>
+    <string name="name">MarvDC Comics</string>
+</resources>
